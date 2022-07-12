@@ -21,3 +21,9 @@ coverage](https://codecov.io/gh/jvieroe/racketeer/branch/main/graph/badge.svg)](
 ## lorem ipsum
 
 dolor sit amet
+
+## Acknowledgements
+
+-   [Jeff Sackman](https://github.com/JeffSackmann) for the amazing
+    [tennis_wta](https://github.com/JeffSackmann/tennis_wta) and
+    [tennis_atp](https://github.com/JeffSackmann/tennis_atp) resources
