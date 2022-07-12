@@ -5,8 +5,18 @@ test_that("multiplication works", {
 
 test_that('wta/apt is required for rankings()', {
 
-  expect_error(racketeer::rankings(wta = NULL),
+  expect_error(racketeer::rankings(wta = NULL,
+                                   decades = 1990),
                  regexp = "Specify APT or WTA rankings")
 
   }
+)
+
+
+test_that('decades is required for rankings()', {
+
+  expect_error(racketeer::rankings(wta = TRUE,
+                                   decades = NULL),
+               regexp = "Choose decades")
+}
 )
