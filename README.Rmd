@@ -29,7 +29,8 @@ Main branch:
 
 
 ## lorem ipsum
-dolor sit amet
+
+dolor sit amet...
 
 
 
