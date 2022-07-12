@@ -20,7 +20,7 @@ coverage](https://codecov.io/gh/jvieroe/racketeer/branch/main/graph/badge.svg)](
 
 ## lorem ipsum
 
-dolor sit amet…
+dolor sit amet..
 
 ## Acknowledgements
 
