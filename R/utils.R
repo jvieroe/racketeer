@@ -12,6 +12,9 @@ check_input <- function(wta = NULL,
     stop("Choose decades")
   }
 
+  if(!is.logical(wta)){
+    stop("wta must be logical (TRUE or FALSE)")
+  }
 
 
 }
