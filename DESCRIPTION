@@ -12,5 +12,6 @@ RoxygenNote: 7.1.2
 Imports:
     magrittr, tibble (>= 3.1.6), dplyr (>= 1.0.7)
 Suggests: 
+    covr,
     testthat (>= 3.0.0)
 Config/testthat/edition: 3

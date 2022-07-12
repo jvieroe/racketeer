@@ -14,7 +14,8 @@ MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://cran.r-project.
 Main branch:
 [![](https://img.shields.io/badge/devel%20version-0.0.0.9000-blue.svg)](https://github.com/https://github.com/jvieroe/racketeer)
 [![R-CMD-check](https://github.com/jvieroe/racketeer/workflows/R-CMD-check/badge.svg)](https://github.com/jvieroe/racketeer/actions)
-[![](https://codecov.io/gh/https://github.com/jvieroe/racketeer/branch/main/graph/badge.svg)](https://codecov.io/gh/https://github.com/jvieroe/racketeer)
+[![Codecov test
+coverage](https://codecov.io/gh/jvieroe/racketeer/branch/main/graph/badge.svg)](https://app.codecov.io/gh/jvieroe/racketeer?branch=main)
 <!-- badges: end -->
 
 lorem ipsum
