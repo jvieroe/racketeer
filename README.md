@@ -18,4 +18,6 @@ Main branch:
 coverage](https://codecov.io/gh/jvieroe/racketeer/branch/main/graph/badge.svg)](https://app.codecov.io/gh/jvieroe/racketeer?branch=main)
 <!-- badges: end -->
 
-lorem ipsum
+## lorem ipsum
+
+dolor sit amet
