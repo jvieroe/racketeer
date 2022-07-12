@@ -13,7 +13,7 @@ check_input <- function(wta = NULL,
   }
 
   if(!is.logical(wta)){
-    stop("wta must be logical (TRUE or FALSE)")
+    stop("wta must be logical")
   }
 
 

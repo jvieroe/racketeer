@@ -26,6 +26,6 @@ test_that('wta must be logical', {
 
   expect_error(check_input(wta = "TRUE",
                            decades = 1990),
-               regexp = "wta must be logical (TRUE or FALSE)")
-}
+               regexp = "wta must be logical")
+  }
 )
