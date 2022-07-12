@@ -6,6 +6,9 @@
 <!-- badges: start -->
 
 “[![CodeFactor](https://www.codefactor.io/repository/github/https://github.com/jvieroe/racketeer/badge)](https://www.codefactor.io/repository/github/https://github.com/jvieroe/racketeer)”
+
+[![CodeFactor](https://www.codefactor.io/repository/github/jvieroe/racketeer/badge)](https://www.codefactor.io/repository/github/jvieroe/racketeer)
+
 <!-- badges: end -->
 
 The goal of racketeer is to …
